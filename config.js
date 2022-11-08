@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'Gởi ! 💌💌',
     reply: 'Tại vì mình cũng thích bạn Ahiiiii 😊😊',
     mess: 'Mình biết mà, mình cũng thích bạn lắm 🥰. Love you 3000 😘😘',
-    messDesc: '💬💬 Nhắn tin cho Em nha. 💬💬',
+    messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
     btnAccept: 'Ok nuôn 💖',
     messLink: 'https://www.facebook.com/lambui1528'
 }
